@@ -29,7 +29,7 @@ Following technologies were used for the successfull completion of this project:
 
 ### Page load time: 
 
-<img src="https://imgur.com/HKAY5BN.png">
+<img src="https://imgur.com/pXqSxaU.png">
 
 
 ## Performance
