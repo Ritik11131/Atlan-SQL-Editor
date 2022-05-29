@@ -4,7 +4,7 @@ A SQL-EDITOR frontend application made for the Assignment given by Atlan.
 
 ## Technologies used :-
 
-Following technologies were used for the successfull completion of this project:
+Following technologies were used for the completion of this project:
 
     1. ReactJs
     2. Bootstrap
@@ -34,15 +34,15 @@ Following technologies were used for the successfull completion of this project:
 
 ## Performance
 
-<img src="https://imgur.com/43AYrhu.png"/>
+<img src="https://imgur.com/NGJsrVh.png"/>
 
 ## Optimization
 
-    1. Didn't use any third party libraries.
-    2. Used only the core features of ReactJs.
-    3. Used only Bootstrap for styling(core).
+    1. Removed unnecessary css and js functions.
+    2. Removed cache from my browser which also affects the speed.
+    3. Removed some packages that are never used.
 
-## Project overview
+## Project overview 
 
 <img src="https://i.imgur.com/3tUljH9.png">
 <img src="https://i.imgur.com/DjrbNVr.png">
